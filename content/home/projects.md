@@ -73,5 +73,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+I am working on how to use GAN to retarget the saliency of an image. Users often find that something we are not interested in is over-salient. Manipulating image according to mask allows users to generate images with target and controllable saliency visually instead of just defrauding saliency in the detection model.
 +++
 
