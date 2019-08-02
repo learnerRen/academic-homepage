@@ -58,16 +58,16 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "Oliverrensu@example.org"
+email = "oliverrensu@gmail.com"
 phone = "+86 15902027241"
 address = "C12, South China University of Technology, Guangzhou, 510006, China"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
+#office_hours = """Monday 10:00 to 13:00<br>
                   Wednesday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
