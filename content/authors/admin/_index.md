@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sucheng(Oliver) Ren
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduated student in Computer Science, South China University of Technology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: South China University of Technology
+  url: "https://www.scut.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Deep Learning, Computer vision, Generative model.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Computer Vision
+- Generative Model
 
 education:
   courses:
