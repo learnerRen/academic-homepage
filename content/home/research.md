@@ -26,8 +26,8 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Inner Core Boundary"
-    tag = "Inner Core Boundary"
+    name = "Generative Model"
+    tag = "Generative Model"
 
   [[content.filter_button]]
     name = "Nuclear Tests"
