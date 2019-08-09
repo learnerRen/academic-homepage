@@ -5,11 +5,10 @@ weight = 1
 math = true
 
 # Date this page was created.
-date = 2017-07-20T00:00:00
+date = 2019-08-01T00:00:00
 
 # Project summary to display on homepage.
-summary = """Use pre-critically reflected PKiKP waves to study the fine-scale
-structure of the Earth's inner core boundary."""
+summary = """Use generative model to generative significant image or equivariance representation"""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -50,14 +49,16 @@ url_code = ""
   preview_only = true
 +++
 
-The Earth's solid inner core grows from the solidification of the liquid
-outer core. The solidification process releases latent heat and expels
-light elements, providing driving forces for the outer core convection
-and the geodynamo which generates the Earth's magnetic field.
-Thus, the information of the Earth's inner core boundary is
-important for our understanding of the thermo-compositional state of the Earth's core.
+# Generative Model for representation
+![semi](semi.jpg)
+Supervised Deep Learning attracts much attention in several areas but it depends on a huge
+amount of labeled data. It is crucial to use existing data and limited label to produce good
+representation by maximizing the mutual information, which indicates the mutual dependency between the representation and data. Specifically, it can be regarded as the amount
+of information contained in the representation of data. The maximized mutual information
+between representation and data means representation covers all information in data and
+represent in a different form. Generative Model used in Semi-supervised learning and unsupervised learning settings which only need a small number of labeled data and no labeled data respectively are drawing more and more attention by the deep learning community. 
 
-## Localized Mushy ICB
 
-{{< figure src="mushy-ICB.png" numbered="true" alt="Localized Mushy ICB" title="Localized mushy zone at the Earth’s inner core boundary beneath southwest Okhotsk Sea."
-caption="**(a)** PKiKP-PcP travel time residuals, plotted at the PKiKP bouncing points at the ICB, which was excited by seismic source (red star) and recorded by Hi-net stations (black triangles). Positive and negative PKiKP-PcP travel time residuals are denoted by circles and triangles, respectively, with the size of symbols proportional to the absolute value of residuals. **(b)** Compressional velocity profile of the best-fitting model across the ICB (red line) represented by two parameters: d the thickness of the layer and $\delta V_P$ percentage compressional velocity jump of the top layer with respect to PREM velocity jump at ICB, along with PREM (black line). **(c\)** Synthetic seismograms for a series of mushy ICB models (red traces, labeled accordingly with two model parameters: $d$ and $\delta V_P$) and for PREM (bottom black trace). **(d)** Comparisons of stacked observed PKiKP waveforms (blue traces), which sample the ICB region beneath southwest Okhotsk Sea and synthetic seismograms (red traces) of the best-fitting models. The number of waveforms used in each stacking is labeled at the right of each trace, while the thickness $d$ and percentage compressional velocity jump of the top layer $\delta V_P$ of the best-fitting models are labeled above the red traces." >}}
+# Generative Model for image generation
+![GAN](GAN.jpg)
+From early auto-encoder model, people try to recontruct image through neural network, and variantional auto-encoder(VAE) is applied to solve the discontinuity in latent space. Geneative Adversarial Network(GAN) attracts people's attention due to the generated realistic image. I am working on applying GAN on other image to image translation problems. Besides, I also try to refine flow-based generative model.
