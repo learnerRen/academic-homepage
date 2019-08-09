@@ -75,5 +75,10 @@ subtitle = ""
  css_class = ""
 +++
 
-I am working on how to use GAN to retarget the saliency of an image. Users often find that something we are not interested in is over-salient. Manipulating image according to mask allows users to generate images with target and controllable saliency visually instead of just defrauding saliency in the detection model.
++ **Apr., 2019 - now**
+I am working on how to use GAN to retarget the saliency of an image. Manipulating image according to mask allows users to generate images with target and controllable saliency visually instead of just defrauding saliency in the detection model. This research is supported under National Training Programs of Innovation and Entrepreneurship for Undergraduates with 10000 RMB of national funding.
+
++ **Mar., 2019 - now**
+Research on the prediction and optimization of traffic flow. We have two directions. The first is using reinforcement learning build a traffic flow and reward system by simulating in software, and interactive with the environment by DNQ or A3C, some reinforcement learning method. The other is an evolutionary algorithm. Due to the slow interaction with the environment, we also design a simple model for online quick decision and updating with reinforcement learning. This research is supported under National Training Programs of Innovation and Entrepreneurship for Undergraduates with 10000 RMB of national funding.
+
 

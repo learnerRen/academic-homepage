@@ -61,6 +61,7 @@ user_groups:
 - Visitors
 ---
 
-I am an undergraduate student in Computer Science, [South China University of Technology](https://www.scut.edu.cn).
+I am an undergraduate student in Computer Science (English Innovation Class, only top 20% students in the department could join the
+class), [South China University of Technology](https://www.scut.edu.cn).
 
-I am mostly interested in applied Deep Learning for Generative Model. My current research topics are about saliency including saliency detection, saliency retarget and so on. I am fortunate to work with [Shengfeng He](http://www.shengfenghe.com/).
+I am mostly interested in Generative Model and detection problems. My current research topics are about saliency including saliency detection, saliency retarget and so on. I am fortunate to work with [Shengfeng He](http://www.shengfenghe.com/).

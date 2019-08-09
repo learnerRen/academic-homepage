@@ -48,4 +48,4 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](/~tiandong/news
 +++
 
 +  **Feb. - Mar., 2019**  Exchange student in UC San Diego
-
++  **Sep., 2017** South China University of Technology scholarship 

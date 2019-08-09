@@ -8,7 +8,7 @@ math = true
 date = 2017-07-20T00:00:00
 
 # Project summary to display on homepage.
-summary = """Manipulate image visually according to guided saliency"""
+summary = """Manipulate image visually according to guided saliency(mask)"""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
