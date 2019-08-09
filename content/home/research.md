@@ -30,12 +30,12 @@ subtitle = ""
     tag = "Generative Model"
 
   [[content.filter_button]]
-    name = "Nuclear Tests"
-    tag = "Nuclear Tests"
+    name = "Saliency Detection"
+    tag = "Saliency Detection"
 
   [[content.filter_button]]
-    name = "Mantle Discontinuities"
-    tag = "Mantle Discontinuities"
+    name = "Saliency Retarget"
+    tag = "Saliency Retarget"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
