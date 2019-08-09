@@ -49,8 +49,9 @@ url_code = ""
   preview_only = true
 +++
 
-# Generative Model for representation
-![semi](semi.jpg)
+![Gnerative Adversarial Model](featured.png "Gnerative Adversarial Model")
+## Generative Model for representation
+![Learning Representation](semi.jpg "Learning Representation")
 Supervised Deep Learning attracts much attention in several areas but it depends on a huge
 amount of labeled data. It is crucial to use existing data and limited label to produce good
 representation by maximizing the mutual information, which indicates the mutual dependency between the representation and data. Specifically, it can be regarded as the amount
@@ -59,6 +60,6 @@ between representation and data means representation covers all information in d
 represent in a different form. Generative Model used in Semi-supervised learning and unsupervised learning settings which only need a small number of labeled data and no labeled data respectively are drawing more and more attention by the deep learning community. 
 
 
-# Generative Model for image generation
-![GAN](GAN.jpg)
+## Generative Model for image generation
+![GAN](GAN.jpg "Image to Image Translation")
 From early auto-encoder model, people try to recontruct image through neural network, and variantional auto-encoder(VAE) is applied to solve the discontinuity in latent space. Geneative Adversarial Network(GAN) attracts people's attention due to the generated realistic image. I am working on applying GAN on other image to image translation problems. Besides, I also try to refine flow-based generative model.
