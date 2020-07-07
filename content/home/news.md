@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 8  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
 title = "Recent News"
 subtitle = "[More News <i class='fa fa-angle-double-right'></i>](/~tiandong/news)"
