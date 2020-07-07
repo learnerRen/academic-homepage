@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = = 2
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -68,8 +68,10 @@ subtitle = ""
 
 + 
 TENet: Triple Excitation Network for Video Salient Object Detection
-Sucheng Ren, Chu Han, Xin Yang, Guoqiang Han, and Shengfeng He*
+**Sucheng Ren**, Chu Han, Xin Yang, Guoqiang Han, and Shengfeng He. 
 European Conference on Computer Vision (ECCV), Glasgow, 2020
 (Spotlight Oral, Acceptance Rate 5.0%)
 
++ 
+**Sucheng Ren**, Wenxi Liu, Jianbo Jiao, Guoqiang Han, and Shengfeng He. Edge Distraction-aware Salient Object Detection. In submission to IEEE Transaction on Image Processing (TIP).
 

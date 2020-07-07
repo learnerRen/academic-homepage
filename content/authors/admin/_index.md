@@ -18,12 +18,13 @@ organizations:
   url: "https://www.scut.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Deep Learning, Computer vision, Generative model.
+bio: My research interests include Deep Learning, Computer vision, Salient Object Detection, Cross-modal Learning.
 
 interests:
 - Deep Learning
 - Computer Vision
-- Generative Model
+- Salient Object Detection
+- Cross-modal Learning
 
 education:
   courses:
@@ -44,7 +45,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/learnerRen
+  link: #https://github.com/learnerRen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -64,4 +65,4 @@ user_groups:
 I am an undergraduate student in Computer Science (English Innovation Class, only top 20% students in the department could join the
 class), [South China University of Technology](https://www.scut.edu.cn).
 
-I am mostly interested in Generative Model and detection problems. My current research topics are about saliency including saliency detection, saliency retarget and so on. I am fortunate to work with [Shengfeng He](http://www.shengfenghe.com/).
+I am mostly interested in cross-modal and detection problems. My current research topics are about saliency including saliency detection, saliency retarget and so on. I am fortunate to work under supervision of [Shengfeng He](http://www.shengfenghe.com/).
