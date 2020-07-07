@@ -47,5 +47,7 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](/~tiandong/news
  css_class = ""
 +++
 
-+  **Feb. - Mar., 2019**  Exchange student in UC San Diego
 +  **Sep., 2017** South China University of Technology scholarship 
++  **Feb. - Mar., 2019**  Exchange student in UC San Diego
++  **Sep., 2019** South China University of Technology scholarship 
++  **July., 2019** A paper is accepted by ECCV as Spotlight Oral, Acceptance Rate 5.0%
